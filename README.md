@@ -10,8 +10,10 @@ Although the use of Likelihood Ratios in forensic facial identification has larg
 
 Results illustrate how the order and combination of morphological correspondences affect the resulting Likelihood Ratio.
 
-![Trait order](https://github.com/arodifr/morphological_comparison_LR/Figure5.png)
+
+![Trait order](https://github.com/arodifr/morphological_comparison_LR/blob/main/Figure5.png)
 
 
-![Trait combination](https://github.com/arodifr/morphological_comparison_LR/Figure6.png)
+![Trait combination](https://github.com/arodifr/morphological_comparison_LR/blob/main/Figure6.png)
+
 
